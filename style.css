@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	font-family: Heltevica;
+}
+
+
+#logo {
+height: 600px;
+width: 600px
+}
+
+#container {
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh
+flex-direction: column;
+
+}
